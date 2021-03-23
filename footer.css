@@ -1,0 +1,15 @@
+.footer-cr{
+    position:relative;
+    top: 55rem;
+    display: flex;
+    left: 52rem;
+    
+
+}
+.footer-name{
+    position: absolute;
+    bottom: 0;
+    font-weight: bold;
+    color: #333;
+    left: 870px;
+}

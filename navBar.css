@@ -1,0 +1,19 @@
+.nav-container{
+    color: black;
+    border: 1px solid black;
+    width: 100%;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    display: flex;
+    border-style: hidden;
+    
+}
+nav a{
+    padding: 0px 300px;
+    word-wrap: normal;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    font-style: normal;
+    
+}
